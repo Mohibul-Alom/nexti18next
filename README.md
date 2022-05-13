@@ -208,11 +208,11 @@ Vamos a añadir 3 carpetas, una por cada idioma en nuestra aplicación: `en-US`,
 ```markdown
 .
 └── public
-└── locales
-├── en
-| └── common.json
-└── de
-└── common.json
+ └── locales
+     ├── en
+     |   └── common.json
+     └── de
+         └── common.json
 ```
 
 Por lo que nuestra estructura de ficheros sería la siguiente:
@@ -220,13 +220,16 @@ Por lo que nuestra estructura de ficheros sería la siguiente:
 ```markdown
 .
 └── public
-└── locales
-├── en-US
-| └── common.json
-| └── home.json
-└── fr
-└── common.json
-└── home.json
+    └── locales
+        ├── en-US
+        |   └── common.json
+        |   └── home.json
+        └── fr
+        |   └── common.json
+        |   └── home.json
+        └── en-ES
+            └── common.json
+            └── home.json
 ```
 
 <aside>
