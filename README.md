@@ -1,14 +1,16 @@
 # NextJs + i18n
 
-[Notion](https://www.notion.so/NextJs-i18n-9dd524bbf7d848d9ab95f896ecb6463f)
+[Documentación Original: Notion](https://www.notion.so/NextJs-i18n-9dd524bbf7d848d9ab95f896ecb6463f)
 
 [Demo](https://nexti18next.vercel.app/)
 
 ---
 
-[Requisitos](NextJs%20+%20i18n%209dd524bbf7d848d9ab95f896ecb6463f/Requisitos%208e01e9fdd0fa45e9a984324d9379d58a.md)
+# 📑 Índice General
 
-[Internacionalización](NextJs%20+%20i18n%209dd524bbf7d848d9ab95f896ecb6463f/Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
+🤔[Requisitos](https://github.com/Mohibul-Alom/nexti18next#requisitos)
+
+🌍[Internacionalización](https://github.com/Mohibul-Alom/nexti18next#internacionalizaci%C3%B3n)
 
 ---
 
@@ -41,10 +43,10 @@ Next: [🌍 Internacionalización](Internacionalizacio%CC%81n%2057959d0d47f0405a
 
 # 📑 Índice
 
-- 🧐 [Background](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
-- ⚙️ [Configuración](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
-- ➕ [Añadiendo idiomas - next-i18next](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
-- [🚄Transición entre locales](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
+- 🧐 [Background](https://github.com/Mohibul-Alom/nexti18next#-background)
+- ⚙️ [Configuración](https://github.com/Mohibul-Alom/nexti18next#%EF%B8%8F-configuraci%C3%B3n)
+- ➕ [Añadiendo idiomas - next-i18next](https://github.com/Mohibul-Alom/nexti18next#-a%C3%B1adir-idiomas---next-i18next)
+- 🚄 [Transición entre locales](https://github.com/Mohibul-Alom/nexti18next#-transici%C3%B3n-entre-locales)
 
 ---
 
@@ -56,7 +58,7 @@ Podemos establecer una lista de localizaciones, la localización por defecto y l
 
 Este soporte está destinado a **complementar** las soluciones de bibliotecas i18n existentes como, **react-i18next** por ejemplo.
 
-[Índice](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
+[Índice](https://github.com/Mohibul-Alom/nexti18next#-%C3%ADndice)
 
 ---
 
@@ -114,7 +116,7 @@ Ahora si queremos ir [http://localhost:8080/fr](http://localhost:8080/fr) deber�
 
 👏 ¡Ya tenemos funcionando i18n con nextjs! 👏
 
-[Índice](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
+[Índice](https://github.com/Mohibul-Alom/nexti18next#-%C3%ADndice)
 
 ---
 
@@ -360,7 +362,7 @@ Ahora si, podemos ir a las siguientes rutas y veremos como cambia el mensaje de 
 
 ![https://media1.giphy.com/media/CuMiNoTRz2bYc/200.gif](https://media1.giphy.com/media/CuMiNoTRz2bYc/200.gif)
 
-[Índice](Internacionalizacio%CC%81n%2057959d0d47f0405ab8e0b9ee6d0686a4.md)
+[Índice](https://github.com/Mohibul-Alom/nexti18next#-%C3%ADndice)
 
 ---
 
