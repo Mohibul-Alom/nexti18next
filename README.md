@@ -240,7 +240,7 @@ Por lo que nuestra estructura de ficheros sería la siguiente:
 Una vez que tenemos estos ficheros creados vamos a utilizarlo en nuestra página de home que se encuentra en `/pages/index.tsx` . creados Vamos a utilizar unas de las ventajas que nos ofrece Nextjs que es `getStaticProps`para obtener los datos previo a la renderización de la página.
 
 <aside>
-💡 getStaticProps: [https://nextjs.org/docs/basic-features/data-fetching/get-static-props](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
+💡 getStaticProps: https://nextjs.org/docs/basic-features/data-fetching/get-static-props
 
 </aside>
 
