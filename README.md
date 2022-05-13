@@ -112,7 +112,7 @@ module.exports = nextConfig;
 > Found a change in next.config.js. Restart the server to see the changes in effect.
 ```
 
-Ahora si queremos ir [http://localhost:8080/fr](http://localhost:8080/fr) deberíamos tener la misma página sin cambios, en caso de no introducir los cambios de arriba, obtendríamos **404 | This page could not be found.**
+Ahora si queremos ir [http://localhost:3000/fr](http://localhost:3000/fr) deberíamos tener la misma página sin cambios, en caso de no introducir los cambios de arriba, obtendríamos **404 | This page could not be found.**
 
 👏 ¡Ya tenemos funcionando i18n con nextjs! 👏
 
@@ -457,6 +457,10 @@ import { useRouter } from "next/router";
 const Home: NextPage = () => {
   const { t } = useTranslation();
   const router = useRouter();
+
+  const dynamicLink = (locale: string) => {
+    router.push({ pathname, query }, asPath, { locale: locale });
+  };
 
   return (
     <>
